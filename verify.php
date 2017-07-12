@@ -13,3 +13,4 @@ $result = curl_exec($ch);
 curl_close($ch);
 
 echo $result;
+curl http://welcome.usefixie.com --proxy http://fixie:DDol4j7zXZ6m5i3@velodrome.usefixie.com:80
